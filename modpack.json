@@ -5,90 +5,22 @@
   "launcherVersion": 1,
   "launcherDownloadUrl": "https://github.com/yourrepo/releases/download/v2/launcher-setup.exe",
   "mods": [
-    {
-      "name": "Xaeros Minimap",
-      "filename": "Xaeros_Minimap_25.3.10_Forge_1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vUbAYOnm/xaeroworldmap-forge-1.20.1-1.40.11.jar"
-    },
-    {
-      "name": "EasyAnticheat",
-      "filename": "anticheat-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/G2Z02IvF/versions/XnwEhQAZ/ezac-0.3.1.jar"
-    },
-     {
-      "name": "EasyVoiceChat",
-      "filename": "voicechat-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/o3tfKAJ2/voicechat-forge-1.20.1-2.6.12.jar"
-    },
-     {
-      "name": "BiomesOPlenty",
-      "filename": "biomesoplenty-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zAvWfIlG/BiomesOPlenty-1.20.1-18.0.0.592.jar"
-    },
-     {
-      "name": "TravelersBackPack",
-      "filename": "TravelersBackPack-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/DgPCtuFt/travelersbackpack-forge-1.20.1-9.1.52.jar"
-    }
-     {
-      "name": "Bosses",
-      "filename": "Bosses-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/q2bV1Tm1/versions/6ytvXiUN/block_factorys_bosses-2.0.9-forge-1.20.1.jar"
-    },
-     {
-      "name": "manymoreores",
-      "filename": "manymoreores-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/ZHcFB1CA/versions/H10t2jXg/%5B1.20.1%20ONLY%5D_Many_More_Ores_2.0_Full_Release-Forge.jar"
-    },
-     {
-      "name": "AlexCaves",
-      "filename": "AlexCaves-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar"
-    },
-     {
-      "name": "Spells",
-      "filename": "Spells-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/T1VAZjU6/irons_spellbooks-1.20.1-3.15.2.jar"
-    },
-     {
-      "name": "Chests",
-      "filename": "Chests-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/P3iIrPH3/versions/YjbOtYwN/ironchest-1.20.1-14.4.4.jar"
-    },
-     {
-      "name": "IronFurnaces",
-      "filename": "IronFurnaces-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/yPlaLxD1/versions/fGEswUMR/ironfurnaces-1.20.1-4.1.6.jar"
-    },
-     {
-      "name": "JEI",
-      "filename": "JEI-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/p7yZWpEg/jei-1.20.1-forge-15.20.0.129.jar"
-    }
-     {
-      "name": "geckolib",
-      "filename": "geckolib-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar"
-    },
-     {
-      "name": "terra",
-      "filename": "terra-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar"
-    },
-     {
-      "name": "Curios",
-      "filename": "Curios-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
-    },
-     {
-      "name": "playeranims",
-      "filename": "playeranims-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
-    },
-     {
-      "name": "citadel",
-      "filename": "citadel-forge-1.21.1-2.9.0.jar",
-      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar"
-    },
+    { "name": "Xaeros Minimap", "filename": "Xaeros_Minimap_25.3.10_Forge_1.20.1.jar", "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vUbAYOnm/xaeroworldmap-forge-1.20.1-1.40.11.jar" },
+    { "name": "EasyAnticheat", "filename": "anticheat-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/G2Z02IvF/versions/XnwEhQAZ/ezac-0.3.1.jar" },
+    { "name": "EasyVoiceChat", "filename": "voicechat-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/o3tfKAJ2/voicechat-forge-1.20.1-2.6.12.jar" },
+    { "name": "BiomesOPlenty", "filename": "biomesoplenty-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zAvWfIlG/BiomesOPlenty-1.20.1-18.0.0.592.jar" },
+    { "name": "TravelersBackPack", "filename": "TravelersBackPack-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/DgPCtuFt/travelersbackpack-forge-1.20.1-9.1.52.jar" },
+    { "name": "Bosses", "filename": "Bosses-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/q2bV1Tm1/versions/6ytvXiUN/block_factorys_bosses-2.0.9-forge-1.20.1.jar" },
+    { "name": "manymoreores", "filename": "manymoreores-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/ZHcFB1CA/versions/H10t2jXg/%5B1.20.1%20ONLY%5D_Many_More_Ores_2.0_Full_Release-Forge.jar" },
+    { "name": "AlexCaves", "filename": "AlexCaves-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar" },
+    { "name": "Spells", "filename": "Spells-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/T1VAZjU6/irons_spellbooks-1.20.1-3.15.2.jar" },
+    { "name": "Chests", "filename": "Chests-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/P3iIrPH3/versions/YjbOtYwN/ironchest-1.20.1-14.4.4.jar" },
+    { "name": "IronFurnaces", "filename": "IronFurnaces-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/yPlaLxD1/versions/fGEswUMR/ironfurnaces-1.20.1-4.1.6.jar" },
+    { "name": "JEI", "filename": "JEI-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/p7yZWpEg/jei-1.20.1-forge-15.20.0.129.jar" },
+    { "name": "geckolib", "filename": "geckolib-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar" },
+    { "name": "terra", "filename": "terra-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar" },
+    { "name": "Curios", "filename": "Curios-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar" },
+    { "name": "playeranims", "filename": "playeranims-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar" },
+    { "name": "citadel", "filename": "citadel-forge-1.21.1-2.9.0.jar", "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar" }
   ]
 }
