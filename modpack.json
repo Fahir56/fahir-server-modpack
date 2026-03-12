@@ -65,5 +65,30 @@
       "filename": "JEI-forge-1.21.1-2.9.0.jar",
       "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/p7yZWpEg/jei-1.20.1-forge-15.20.0.129.jar"
     }
+     {
+      "name": "geckolib",
+      "filename": "geckolib-forge-1.21.1-2.9.0.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar"
+    },
+     {
+      "name": "terra",
+      "filename": "terra-forge-1.21.1-2.9.0.jar",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+    },
+     {
+      "name": "Curios",
+      "filename": "Curios-forge-1.21.1-2.9.0.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
+    },
+     {
+      "name": "playeranims",
+      "filename": "playeranims-forge-1.21.1-2.9.0.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+    },
+     {
+      "name": "citadel",
+      "filename": "citadel-forge-1.21.1-2.9.0.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar"
+    },
   ]
 }
