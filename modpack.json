@@ -1,7 +1,9 @@
 {
   "mcVersion": "1.21.11",
   "forgeVersion": "1.21.11-61.1.1",
-  "serverIp": "MertiYediler.exaroton.me:47167",
+  "serverIp": "okul.redstone.tr:27015",
+  "launcherVersion": 1,
+  "launcherDownloadUrl": "https://github.com/yourrepo/releases/download/v2/launcher-setup.exe",
   "mods": [
     {
       "name": "Xaeros Minimap",
