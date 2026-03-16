@@ -4,7 +4,7 @@
   "fabricVersion": "0.18.4",
   "serverIp": "142.132.197.196:27015",
   "launcherVersion": 2,
-  "launcherDownloadUrl": "https://github.com/yourrepo/releases/download/v2/launcher-setup.exe",
+  "launcherDownloadUrl": "https://www.mediafire.com/file/q6s4u6q66hnqygc/OkulLauncher.zip/file",
   "mods": [
     { "name": "Sodium", "filename": "Sodium-1.21.1.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar" }
   ]
