@@ -6,6 +6,6 @@
   "launcherVersion": 2,
   "launcherDownloadUrl": "https://github.com/yourrepo/releases/download/v2/launcher-setup.exe",
   "mods": [
-    { "name": "Sodium", "filename": "Sodium-1.21.1.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar" },
+    { "name": "Sodium", "filename": "Sodium-1.21.1.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar" }
   ]
 }
