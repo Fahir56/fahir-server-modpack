@@ -6,6 +6,7 @@
   "launcherVersion": 2,
   "launcherDownloadUrl": "https://www.mediafire.com/file/q6s4u6q66hnqygc/OkulLauncher.zip/file",
   "mods": [
-    { "name": "Sodium", "filename": "Sodium-1.21.1.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar" }
+    { "name": "Sodium", "filename": "Sodium-1.21.1.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar" },
+    { "name": "VoiceChat", "filename": "VC-1.21.1.jar", "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pFTZ8sqQ/voicechat-fabric-1.21.11-2.6.12.jar" }
   ]
 }
