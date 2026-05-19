@@ -1,12 +1,13 @@
 {
-  "mcVersion": "1.21.11",
+  "mcVersion": "1.20.1",
   "loader": "fabric",
   "fabricVersion": "0.18.4",
   "serverIp": "142.132.197.196:27015",
   "launcherVersion": 2,
   "launcherDownloadUrl": "https://www.mediafire.com/file/q6s4u6q66hnqygc/OkulLauncher.zip/file",
   "mods": [
-    { "name": "Sodium", "filename": "Sodium-1.21.1.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar" },
-    { "name": "VoiceChat", "filename": "VC-1.21.1.jar", "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pFTZ8sqQ/voicechat-fabric-1.21.11-2.6.12.jar" }
+    { "name": "multiplayer", "filename": "multi-1.21.1.jar", "url": "https://mediafilez.forgecdn.net/files/7806/110/Essential_1-3-10-8_fabric_1-20-1.jar" },
+    { "name": "horror", "filename": "horror-1.21.1.jar", "url": "https://mediafilez.forgecdn.net/files/7898/86/untitledlog-1.0.6%2Bbeta-1.20.1.jar" },
+    { "name": "sodium", "filename": "sodium-1.21.1.jar", "url": "https://mediafilez.forgecdn.net/files/6260/639/sodium-fabric-0.5.13%2Bmc1.20.1.jar" }
   ]
 }
