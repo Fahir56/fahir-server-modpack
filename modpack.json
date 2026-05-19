@@ -6,17 +6,17 @@
   "launcherVersion": 2,
   "launcherDownloadUrl": "https://www.mediafire.com/file/q6s4u6q66hnqygc/OkulLauncher.zip/file",
   "mods": [
-    { "name": "Essential", "filename": "Essential_1-3-10-8_fabric_1-20-1.jar", "url": "https://edge.forgecdn.net/files/7806/110/Essential_1-3-10-8_fabric_1-20-1.jar" },
-    { "name": "UntitledLog", "filename": "untitledlog-1.0.6+beta-1.20.1.jar", "url": "https://edge.forgecdn.net/files/7898/86/untitledlog-1.0.6%2Bbeta-1.20.1.jar" },
-    { "name": "Fabric API", "filename": "fabric-api-0.92.9+1.20.1.jar", "url": "https://edge.forgecdn.net/files/8073/259/fabric-api-0.92.9%2B1.20.1.jar" },
-    { "name": "Continuity", "filename": "continuity-3.0.0+1.20.1.jar", "url": "https://edge.forgecdn.net/files/5962/874/continuity-3.0.0%2B1.20.1.jar" },
-    { "name": "Entity Model Features", "filename": "entity_model_features-3.2.4-1.20.1-fabric.jar", "url": "https://edge.forgecdn.net/files/8063/553/entity_model_features-3.2.4-1.20.1-fabric.jar" },
-    { "name": "Entity Texture Features", "filename": "entity_texture_features_1.20.1-fabric-7.1.jar", "url": "https://edge.forgecdn.net/files/7930/618/entity_texture_features_1.20.1-fabric-7.1.jar" },
-    { "name": "Indium", "filename": "indium-1.0.36+mc1.20.1.jar", "url": "https://edge.forgecdn.net/files/5153/193/indium-1.0.36%2Bmc1.20.1.jar" },
-    { "name": "Konkrete", "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar", "url": "https://edge.forgecdn.net/files/5142/502/konkrete_fabric_1.8.1_MC_1.20.1.jar" },
-    { "name": "GeckoLib", "filename": "geckolib-fabric-1.20.1-4.8.3.jar", "url": "https://edge.forgecdn.net/files/7553/256/geckolib-fabric-1.20.1-4.8.3.jar" },
-    { "name": "Sodium", "filename": "sodium-fabric-0.5.13+mc1.20.1.jar", "url": "https://edge.forgecdn.net/files/5502/780/sodium-fabric-0.5.13%2Bmc1.20.1.jar" },
-    { "name": "MidnightLib", "filename": "midnightlib-fabric-1.9.3+1.20.1.jar", "url": "https://edge.forgecdn.net/files/4844/701/midnightlib-fabric-1.9.3%2B1.20.1.jar" },
-    { "name": "Puzzle", "filename": "puzzle-fabric-2.3.0+1.20.1.jar", "url": "https://edge.forgecdn.net/files/4657/188/puzzle-fabric-2.3.0%2B1.20.1.jar" }
+    { "name": "Essential", "filename": "Essential_1-3-10-8_fabric_1-20-1.jar", "url": "https://www.curseforge.com/api/v1/mods/638232/files/7806110/download" },
+    { "name": "UntitledLog", "filename": "untitledlog-1.0.6+beta-1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/957444/files/7898086/download" },
+    { "name": "Fabric API", "filename": "fabric-api-0.92.9+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/306612/files/8073259/download" },
+    { "name": "Continuity", "filename": "continuity-3.0.0+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/531351/files/5962874/download" },
+    { "name": "Entity Model Features", "filename": "entity_model_features-3.2.4-1.20.1-fabric.jar", "url": "https://www.curseforge.com/api/v1/mods/750435/files/8063553/download" },
+    { "name": "Entity Texture Features", "filename": "entity_texture_features_1.20.1-fabric-7.1.jar", "url": "https://www.curseforge.com/api/v1/mods/580199/files/7930618/download" },
+    { "name": "Indium", "filename": "indium-1.0.36+mc1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/501257/files/5153193/download" },
+    { "name": "Konkrete", "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/391275/files/5142502/download" },
+    { "name": "GeckoLib", "filename": "geckolib-fabric-1.20.1-4.8.3.jar", "url": "https://www.curseforge.com/api/v1/mods/388172/files/7553256/download" },
+    { "name": "Sodium", "filename": "sodium-fabric-0.5.13+mc1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/394468/files/5502780/download" },
+    { "name": "MidnightLib", "filename": "midnightlib-fabric-1.9.3+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/493393/files/4844701/download" },
+    { "name": "Puzzle", "filename": "puzzle-fabric-2.3.0+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/554907/files/4657188/download" }
   ]
 }
