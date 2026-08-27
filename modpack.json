@@ -1,22 +1,15 @@
 {
   "mcVersion": "1.20.1",
   "loader": "fabric",
-  "fabricVersion": "0.18.4",
-  "serverIp": "142.132.197.196:27015",
+  "fabricVersion": "0.19.4",
+  "serverIp": "mcoynayalim.exaroton.me:47167",
   "launcherVersion": 2,
-  "launcherDownloadUrl": "https://www.mediafire.com/file/q6s4u6q66hnqygc/OkulLauncher.zip/file",
+  "launcherDownloadUrl": "https://nothing.com",
   "mods": [
-    { "name": "Essential", "filename": "Essential_1-3-10-8_fabric_1-20-1.jar", "url": "https://www.curseforge.com/api/v1/mods/638232/files/7806110/download" },
-    { "name": "UntitledLog", "filename": "untitledlog-1.0.6+beta-1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/957444/files/7898086/download" },
-    { "name": "Fabric API", "filename": "fabric-api-0.92.9+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/306612/files/8073259/download" },
-    { "name": "Continuity", "filename": "continuity-3.0.0+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/531351/files/5962874/download" },
-    { "name": "Entity Model Features", "filename": "entity_model_features-3.2.4-1.20.1-fabric.jar", "url": "https://www.curseforge.com/api/v1/mods/750435/files/8063553/download" },
-    { "name": "Entity Texture Features", "filename": "entity_texture_features_1.20.1-fabric-7.1.jar", "url": "https://www.curseforge.com/api/v1/mods/580199/files/7930618/download" },
-    { "name": "Indium", "filename": "indium-1.0.36+mc1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/501257/files/5153193/download" },
-    { "name": "Konkrete", "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/391275/files/5142502/download" },
-    { "name": "GeckoLib", "filename": "geckolib-fabric-1.20.1-4.8.3.jar", "url": "https://www.curseforge.com/api/v1/mods/388172/files/7553256/download" },
-    { "name": "Sodium", "filename": "sodium-fabric-0.5.13+mc1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/394468/files/5502780/download" },
-    { "name": "MidnightLib", "filename": "midnightlib-fabric-1.9.3+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/493393/files/4844701/download" },
-    { "name": "Puzzle", "filename": "puzzle-fabric-2.3.0+1.20.1.jar", "url": "https://www.curseforge.com/api/v1/mods/554907/files/4657188/download" }
+    {
+      "name": "Benim Modum",
+      "filename": "benim-modum-1.20.1.jar",
+      "url": "https://drive.usercontent.google.com/download?id=1FvAnWu2YE3vvAL8c9dq0LxCixuKx914n&export=download&authuser=0&confirm=t&uuid=4a2156da-1ccb-45ed-876f-6d100b13acd5&at=AFYLz4MAFLA9o4iQA3vY50GYBaEz:1787868505056"
+    }
   ]
 }
