@@ -12,6 +12,11 @@
       "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/werere/benim-modum-1.20.1.jar"
     },
     {
+      "name": "MertSever",
+      "filename": "MerSever-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZLYCiSMO/xaeroworldmap-fabric-1.20.1-1.45.0.jar"
+    },
+    {
       "name": "Minimap",
       "filename": "mp-1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/VqmyLcPM/xaerominimap-fabric-1.20.1-26.4.2.jar"
