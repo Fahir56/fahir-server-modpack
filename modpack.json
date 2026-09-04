@@ -42,11 +42,6 @@
       "url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/oT0CGnBQ/Origins-1.10.2%2Bmc.1.20.x.jar"
     },
     {
-      "name": "BVracken",
-      "filename": "braken-1.20.1.jar",
-      "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/dsxcvf/BrackenPack-v127-Fabric-1.20.1-NoRaces-FIX5.7.1-BOOT-HOTFIX.jar"
-    },
-    {
       "name": "OriginsPlus2",
       "filename": "plus-1.20.1.jar",
       "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/dsdsw3/origins-plus-plus-2.4-enigma-stare-patched.jar"
