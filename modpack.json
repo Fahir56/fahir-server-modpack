@@ -1,55 +1,9 @@
 {
   "mcVersion": "1.20.1",
-  "loader": "fabric",
-  "fabricVersion": "0.19.3",
+  "loader": "forge",
+  "fabricVersion": "47.4.10",
   "serverIp": "mcoynayalim.exaroton.me:47167",
   "launcherVersion": 2,
   "launcherDownloadUrl": "https://nothing.com",
-  "mods": [
-    {
-      "name": "Benim Modum",
-      "filename": "benim-modum-1.20.1.jar",
-      "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/werere/benim-modum-1.20.1.jar"
-    },
-    {
-      "name": "Vracken Modum",
-      "filename": "f-modum-1.20.1.jar",
-      "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/ede/BrackenPack-v127-Fabric-1.20.1-NoRaces-FIX5.13.2-STRUCTURE-REPAIR.jar"
-    },
-    {
-      "name": "MertSever",
-      "filename": "MerSever-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZLYCiSMO/xaeroworldmap-fabric-1.20.1-1.45.0.jar"
-    },
-    {
-      "name": "Minimap",
-      "filename": "mp-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/VqmyLcPM/xaerominimap-fabric-1.20.1-26.4.2.jar"
-    },
-    {
-      "name": "FabricAPI",
-      "filename": "fabricapi-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/xhLT3C5f/fabric-api-0.92.11%2B1.20.1.jar"
-    },
-    {
-      "name": "VoiceChat",
-      "filename": "VC-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8601/190/voicechat-fabric-1.20.1-2.6.22.jar"
-    },
-    {
-      "name": "Pehkui",
-      "filename": "pehkui-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3%2B1.14.4-1.21.jar"
-    },
-    {
-      "name": "Origins",
-      "filename": "origins-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/oT0CGnBQ/Origins-1.10.2%2Bmc.1.20.x.jar"
-    },
-    {
-      "name": "OriginsPlus2",
-      "filename": "plus-1.20.1.jar",
-      "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/ede/origins-plus-plus-2.4-enigma-spectre-infinite-cooldown-fixed.jar"
-    }
-  ]
+  "mods": []
 }
