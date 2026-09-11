@@ -10,6 +10,331 @@
       "name": "Bond",
       "filename": "Bond-1.20.1.jar",
       "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/ede/boundandbroken-forge-1.20.1-0.2.5.jar"
+    },
+    {
+      "name": "When Dungeons Arise",
+      "filename": "DungeonsArise-1.20.1-2.1.57-release.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4798/432/DungeonsArise-1.20.1-2.1.57-release.jar"
+    },
+    {
+      "name": "Integrated Dungeons & Structures",
+      "filename": "idas_forge-1.13.0+1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7787/515/idas_forge-1.13.0%2B1.20.1.jar"
+    },
+    {
+      "name": "Medieval Buildings",
+      "filename": "medieval_buildings-1.20.1-1.1.2-forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6676/759/medieval_buildings-1.20.1-1.1.2-forge.jar"
+    },
+    {
+      "name": "Epic Knights",
+      "filename": "epic-knights-1.20.1-forge-10.11.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7756/534/epic-knights-1.20.1-forge-10.11.jar"
+    },
+    {
+      "name": "Better Combat",
+      "filename": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7287/334/bettercombat-forge-1.9.0%2B1.20.1.jar"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "filename": "irons_spellbooks-1.20.1-3.16.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8680/180/irons_spellbooks-1.20.1-3.16.3.jar"
+    },
+    {
+      "name": "L_Ender's Cataclysm",
+      "filename": "L_Enders_Cataclysm-3.31.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8246/047/L_Enders_Cataclysm-3.31.jar"
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "filename": "mowziesmobs-1.8.2.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar"
+    },
+    {
+      "name": "Alex's Caves",
+      "filename": "alexscaves-2.0.2.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5848/216/alexscaves-2.0.2.jar"
+    },
+    {
+      "name": "ChoiceTheorem's Overhauled Village",
+      "filename": "[forge]ctov-3.4.14.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6459/777/%5Bforge%5Dctov-3.4.14.jar"
+    },
+    {
+      "name": "The Twilight Forest",
+      "filename": "twilightforest-1.20.1-4.3.1893-universal.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4865/711/twilightforest-1.20.1-4.3.1893-universal.jar"
+    },
+    {
+      "name": "Simply Swords",
+      "filename": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8746/028/simplyswords-forge-neoforge-1.70.2-1.20.1.jar"
+    },
+    {
+      "name": "Alex's Mobs",
+      "filename": "alexsmobs-1.22.9.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5698/791/alexsmobs-1.22.9.jar"
+    },
+    {
+      "name": "Born in Chaos",
+      "filename": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7917/933/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar"
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5271/360/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4769/063/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "filename": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4769/083/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+    },
+    {
+      "name": "YUNG's Better Desert Temples",
+      "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4769/439/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+    },
+    {
+      "name": "YUNG's Better Jungle Temples",
+      "filename": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5331/760/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses",
+      "filename": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments",
+      "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4883/003/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+    },
+    {
+      "name": "YUNG's Better Witch Huts",
+      "filename": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4769/489/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+    },
+    {
+      "name": "YUNG's Better End Island",
+      "filename": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5193/815/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+    },
+    {
+      "name": "YUNG's Bridges",
+      "filename": "YungsBridges-1.20-Forge-4.0.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4769/518/YungsBridges-1.20-Forge-4.0.3.jar"
+    },
+    {
+      "name": "YUNG's Extras",
+      "filename": "YungsExtras-1.20-Forge-4.0.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4769/514/YungsExtras-1.20-Forge-4.0.3.jar"
+    },
+    {
+      "name": "Architectury API",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar"
+    },
+    {
+      "name": "Cloth Config API",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "name": "Player Animator",
+      "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "name": "Curios API",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6418/456/curios-forge-5.14.1%2B1.20.1.jar"
+    },
+    {
+      "name": "GeckoLib",
+      "filename": "geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar"
+    },
+    {
+      "name": "Iron's Lib",
+      "filename": "irons_lib-1.20.1-2.1.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8364/892/irons_lib-1.20.1-2.1.0.jar"
+    },
+    {
+      "name": "Citadel",
+      "filename": "citadel-2.6.3-1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7476/570/citadel-2.6.3-1.20.1.jar"
+    },
+    {
+      "name": "YUNG's API",
+      "filename": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5769/971/YungsApi-1.20-Forge-4.0.6.jar"
+    },
+    {
+      "name": "Fzzy Config",
+      "filename": "fzzy_config-0.7.6+1.20.1+forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7568/893/fzzy_config-0.7.6%2B1.20.1%2Bforge.jar"
+    },
+    {
+      "name": "Simply Tooltips",
+      "filename": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8715/158/SimplyTooltips-forge-0.1.5-1.20.1.jar"
+    },
+    {
+      "name": "Lionfish API",
+      "filename": "lionfishapi-3.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8095/554/lionfishapi-3.0.jar"
+    },
+    {
+      "name": "Lithostitched",
+      "filename": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6742/615/lithostitched-forge-1.20.1-1.4.11.jar"
+    },
+    {
+      "name": "Create",
+      "filename": "create-1.20.1-6.0.8.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar"
+    },
+    {
+      "name": "Farmer's Delight",
+      "filename": "FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8765/179/FarmersDelight-1.20.1-1.3.4.jar"
+    },
+    {
+      "name": "Integrated API",
+      "filename": "integrated_api-forge-1.20.1-1.8.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8636/564/integrated_api-forge-1.20.1-1.8.0.jar"
+    },
+    {
+      "name": "Quark",
+      "filename": "Quark-4.0-462.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6427/817/Quark-4.0-462.jar"
+    },
+    {
+      "name": "Zeta",
+      "filename": "Zeta-1.0-31.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7335/229/Zeta-1.0-31.jar"
+    },
+    {
+      "name": "Supplementaries",
+      "filename": "supplementaries-1.20-3.1.43.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7884/611/supplementaries-1.20-3.1.43.jar"
+    },
+    {
+      "name": "Moonlight Lib",
+      "filename": "moonlight-1.20-2.16.35-forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8820/589/moonlight-1.20-2.16.35-forge.jar"
+    },
+    {
+      "name": "Embeddium",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5681/725/embeddium-0.3.31%2Bmc1.20.1.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "name": "ModernFix",
+      "filename": "modernfix-forge-5.27.44+mc1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8198/700/modernfix-forge-5.27.44%2Bmc1.20.1.jar"
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "filename": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6364/065/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+    },
+    {
+      "name": "GlitchCore",
+      "filename": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5787/839/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+    },
+    {
+      "name": "Silent's Gems",
+      "filename": "silents-gems-1.20.1-4.7.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5193/708/silents-gems-1.20.1-4.7.0.jar"
+    },
+    {
+      "name": "Silent Lib",
+      "filename": "silent-lib-1.20.1-8.0.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4585/754/silent-lib-1.20.1-8.0.0.jar"
+    },
+    {
+      "name": "Oreganized",
+      "filename": "Oreganized 1.20.1-4.3.2.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7707/202/Oreganized%201.20.1-4.3.2.jar"
+    },
+    {
+      "name": "Blueprint",
+      "filename": "blueprint-1.20.1-7.1.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8048/579/blueprint-1.20.1-7.1.4.jar"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "filename": "xaerominimap-forge-1.20.1-26.4.2.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8449/808/xaerominimap-forge-1.20.1-26.4.2.jar"
+    },
+    {
+      "name": "Xaero's World Map",
+      "filename": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8449/908/xaeroworldmap-forge-1.20.1-1.44.2.jar"
+    },
+    {
+      "name": "Inventory Pets",
+      "filename": "inventorypets-1.20.1-2.2.9.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8740/624/inventorypets-1.20.1-2.2.9.jar"
+    },
+    {
+      "name": "Blue Skies",
+      "filename": "blue_skies-1.20.1-1.3.31.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5010/316/blue_skies-1.20.1-1.3.31.jar"
+    },
+    {
+      "name": "Structure Gel API",
+      "filename": "structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5278/429/structure_gel-1.20.1-2.16.2.jar"
+    },
+    {
+      "name": "The Aether",
+      "filename": "aether-1.20.1-1.5.2-neoforge.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6134/920/aether-1.20.1-1.5.2-neoforge.jar"
+    },
+    {
+      "name": "Deeper and Darker",
+      "filename": "deeperdarker-forge-1.20.1-1.2.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/4807/511/deeperdarker-forge-1.20.1-1.2.1.jar"
+    },
+    {
+      "name": "Meet Your Fight",
+      "filename": "meetyourfight-1.20.1-1.6.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8166/391/meetyourfight-1.20.1-1.6.1.jar"
+    },
+    {
+      "name": "Ice and Fire: Dragons",
+      "filename": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5633/453/iceandfire-2.1.13-1.20.1-beta-5.jar"
+    },
+    {
+      "name": "Ars Nouveau",
+      "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
+      "url": "https://mediafilez.forgecdn.net/files/6688/854/ars_nouveau-1.20.1-4.12.7-all.jar"
+    },
+    {
+      "name": "Deeper and Darker: Spellbooks",
+      "filename": "darkermagic-1.3.1-1.20.1-ver.b.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7709/065/darkermagic-1.3.1-1.20.1-ver.b.jar"
     }
   ]
 }
