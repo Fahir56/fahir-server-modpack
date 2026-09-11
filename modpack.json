@@ -184,7 +184,7 @@
     {
       "name": "Simply Tooltips",
       "filename": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
-      "url": "https://api.modrinth.com/maven/maven/modrinth/6avVoBVB/0.1.5-forge,1.20.1/6avVoBVB-0.1.5-forge,1.20.1.jar"
+      "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/s87jNabF/SimplyTooltips-forge-0.1.5-1.20.1.jar?mr_download_reason=standalone"
     },
     {
       "name": "Lionfish API",
