@@ -3,7 +3,7 @@
   "loader": "forge",
   "forgeVersion": "47.4.10",
   "serverIp": "mcoynayalim.exaroton.me",
-  "launcherVersion": 7,
+  "launcherVersion": 8,
   "launcherDownloadUrl": "https://nothing.com",
   "mods": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "name": "Simply Swords",
-      "filename": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/Tq7tcDiO/simplyswords-forge-neoforge-1.70.2-1.20.1.jar"
+      "filename": "simplyswords-forge-neoforge-1.70.1-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/36ve22gq/simplyswords-forge-neoforge-1.70.1-1.20.1.jar"
     },
     {
       "name": "Alex's Mobs",
