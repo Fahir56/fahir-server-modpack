@@ -3,7 +3,7 @@
   "loader": "forge",
   "forgeVersion": "47.4.10",
   "serverIp": "mcoynayalim.exaroton.me",
-  "launcherVersion": 3,
+  "launcherVersion": 5,
   "launcherDownloadUrl": "https://nothing.com",
   "mods": [
     {
@@ -14,32 +14,32 @@
     {
       "name": "When Dungeons Arise",
       "filename": "DungeonsArise-1.20.1-2.1.57-release.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4798/432/DungeonsArise-1.20.1-2.1.57-release.jar"
+      "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar"
     },
     {
       "name": "Integrated Dungeons & Structures",
       "filename": "idas_forge-1.13.0+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7787/515/idas_forge-1.13.0%2B1.20.1.jar"
+      "url": "https://cdn.modrinth.com/data/Z8OZShAU/versions/mgwwWo3b/idas_forge-1.13.0%2B1.20.1.jar"
     },
     {
       "name": "Medieval Buildings",
       "filename": "medieval_buildings-1.20.1-1.1.2-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6676/759/medieval_buildings-1.20.1-1.1.2-forge.jar"
+      "url": "https://cdn.modrinth.com/data/sc9lpPiU/versions/QSZLwslO/medieval_buildings-1.20.1-1.1.2-forge.jar"
     },
     {
       "name": "Epic Knights",
       "filename": "epic-knights-1.20.1-forge-10.11.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7756/534/epic-knights-1.20.1-forge-10.11.jar"
+      "url": "https://cdn.modrinth.com/data/L6jvzao4/versions/2kK9qUpx/epic-knights-1.20.1-forge-10.11.jar"
     },
     {
       "name": "Better Combat",
       "filename": "bettercombat-forge-1.9.0+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7287/334/bettercombat-forge-1.9.0%2B1.20.1.jar"
+      "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/rnhiaw3t/bettercombat-forge-1.9.0%2B1.20.1.jar"
     },
     {
       "name": "Iron's Spells 'n Spellbooks",
       "filename": "irons_spellbooks-1.20.1-3.16.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8680/180/irons_spellbooks-1.20.1-3.16.3.jar"
+      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/hZaEegS9/irons_spellbooks-1.20.1-3.16.3.jar"
     },
     {
       "name": "L_Ender's Cataclysm",
@@ -49,297 +49,297 @@
     {
       "name": "Mowzie's Mobs",
       "filename": "mowziesmobs-1.8.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar"
+      "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/acYEfsJa/mowziesmobs-1.8.2.jar"
     },
     {
       "name": "Alex's Caves",
       "filename": "alexscaves-2.0.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5848/216/alexscaves-2.0.2.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/924854/files/5848216/download"
     },
     {
       "name": "ChoiceTheorem's Overhauled Village",
       "filename": "[forge]ctov-3.4.14.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6459/777/%5Bforge%5Dctov-3.4.14.jar"
+      "url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/o7mg6MeV/%5Bforge%5Dctov-3.4.14.jar"
     },
     {
       "name": "The Twilight Forest",
       "filename": "twilightforest-1.20.1-4.3.1893-universal.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4865/711/twilightforest-1.20.1-4.3.1893-universal.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/227639/files/4865711/download"
     },
     {
       "name": "Simply Swords",
       "filename": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8746/028/simplyswords-forge-neoforge-1.70.2-1.20.1.jar"
+      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/Tq7tcDiO/simplyswords-forge-neoforge-1.70.2-1.20.1.jar"
     },
     {
       "name": "Alex's Mobs",
       "filename": "alexsmobs-1.22.9.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5698/791/alexsmobs-1.22.9.jar"
+      "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar"
     },
     {
       "name": "Born in Chaos",
       "filename": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7917/933/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar"
+      "url": "https://cdn.modrinth.com/data/1kcHy4de/versions/8wmEhUSt/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar"
     },
     {
       "name": "YUNG's Better Dungeons",
       "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5271/360/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/510089/files/5271360/download"
     },
     {
       "name": "YUNG's Better Mineshafts",
       "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4769/063/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/389665/files/4769063/download"
     },
     {
       "name": "YUNG's Better Strongholds",
       "filename": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4769/083/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/465575/files/4769083/download"
     },
     {
       "name": "YUNG's Better Desert Temples",
       "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4769/439/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/631016/files/4769439/download"
     },
     {
       "name": "YUNG's Better Jungle Temples",
       "filename": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5331/760/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/897669/files/5331760/download"
     },
     {
       "name": "YUNG's Better Nether Fortresses",
       "filename": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/817651/files/5193465/download"
     },
     {
       "name": "YUNG's Better Ocean Monuments",
       "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4883/003/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/689238/files/4883003/download"
     },
     {
       "name": "YUNG's Better Witch Huts",
       "filename": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4769/489/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/631401/files/4769489/download"
     },
     {
       "name": "YUNG's Better End Island",
       "filename": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5193/815/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/901344/files/5193815/download"
     },
     {
       "name": "YUNG's Bridges",
       "filename": "YungsBridges-1.20-Forge-4.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4769/518/YungsBridges-1.20-Forge-4.0.3.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/536660/files/4769518/download"
     },
     {
       "name": "YUNG's Extras",
       "filename": "YungsExtras-1.20-Forge-4.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4769/514/YungsExtras-1.20-Forge-4.0.3.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/480006/files/4769514/download"
     },
     {
       "name": "Architectury API",
       "filename": "architectury-9.2.14-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/419699/files/5137938/download"
     },
     {
       "name": "Cloth Config API",
       "filename": "cloth-config-11.1.136-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/348521/files/5729105/download"
     },
     {
       "name": "Player Animator",
       "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/658587/files/4587214/download"
     },
     {
       "name": "Curios API",
       "filename": "curios-forge-5.14.1+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6418/456/curios-forge-5.14.1%2B1.20.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/309927/files/6418456/download"
     },
     {
       "name": "GeckoLib",
       "filename": "geckolib-forge-1.20.1-4.8.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/388172/files/8285794/download"
     },
     {
       "name": "Iron's Lib",
       "filename": "irons_lib-1.20.1-2.1.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8364/892/irons_lib-1.20.1-2.1.0.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/1492763/files/8364892/download"
     },
     {
       "name": "Citadel",
       "filename": "citadel-2.6.3-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7476/570/citadel-2.6.3-1.20.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/331936/files/7476570/download"
     },
     {
       "name": "YUNG's API",
       "filename": "YungsApi-1.20-Forge-4.0.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5769/971/YungsApi-1.20-Forge-4.0.6.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/421850/files/5769971/download"
     },
     {
       "name": "Fzzy Config",
       "filename": "fzzy_config-0.7.6+1.20.1+forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7568/893/fzzy_config-0.7.6%2B1.20.1%2Bforge.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/1005914/files/7568893/download"
     },
     {
       "name": "Simply Tooltips",
       "filename": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8715/158/SimplyTooltips-forge-0.1.5-1.20.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/1475755/files/8715158/download"
     },
     {
       "name": "Lionfish API",
       "filename": "lionfishapi-3.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8095/554/lionfishapi-3.0.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/1001614/files/8095554/download"
     },
     {
       "name": "Lithostitched",
       "filename": "lithostitched-forge-1.20.1-1.4.11.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6742/615/lithostitched-forge-1.20.1-1.4.11.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/936015/files/6742615/download"
     },
     {
       "name": "Create",
       "filename": "create-1.20.1-6.0.8.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/328085/files/7178761/download"
     },
     {
       "name": "Farmer's Delight",
       "filename": "FarmersDelight-1.20.1-1.3.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8765/179/FarmersDelight-1.20.1-1.3.4.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/398521/files/8765179/download"
     },
     {
       "name": "Integrated API",
       "filename": "integrated_api-forge-1.20.1-1.8.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8636/564/integrated_api-forge-1.20.1-1.8.0.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/817709/files/8636564/download"
     },
     {
       "name": "Quark",
       "filename": "Quark-4.0-462.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6427/817/Quark-4.0-462.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/243121/files/6427817/download"
     },
     {
       "name": "Zeta",
       "filename": "Zeta-1.0-31.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7335/229/Zeta-1.0-31.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/968868/files/7335229/download"
     },
     {
       "name": "Supplementaries",
       "filename": "supplementaries-1.20-3.1.43.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7884/611/supplementaries-1.20-3.1.43.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/412082/files/7884611/download"
     },
     {
       "name": "Moonlight Lib",
       "filename": "moonlight-1.20-2.16.35-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8820/589/moonlight-1.20-2.16.35-forge.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/499980/files/8820589/download"
     },
     {
       "name": "Embeddium",
       "filename": "embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5681/725/embeddium-0.3.31%2Bmc1.20.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/908741/files/5681725/download"
     },
     {
       "name": "FerriteCore",
       "filename": "ferritecore-6.0.1-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/429235/files/4810975/download"
     },
     {
       "name": "ModernFix",
       "filename": "modernfix-forge-5.27.44+mc1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8198/700/modernfix-forge-5.27.44%2Bmc1.20.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/790626/files/8198700/download"
     },
     {
       "name": "Biomes O' Plenty",
       "filename": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6364/065/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/220318/files/6364065/download"
     },
     {
       "name": "TerraBlender",
       "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/563928/files/6290448/download"
     },
     {
       "name": "GlitchCore",
       "filename": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5787/839/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/955399/files/5787839/download"
     },
     {
       "name": "Silent's Gems",
       "filename": "silents-gems-1.20.1-4.7.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5193/708/silents-gems-1.20.1-4.7.0.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/220311/files/5193708/download"
     },
     {
       "name": "Silent Lib",
       "filename": "silent-lib-1.20.1-8.0.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4585/754/silent-lib-1.20.1-8.0.0.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/242998/files/4585754/download"
     },
     {
       "name": "Oreganized",
       "filename": "Oreganized 1.20.1-4.3.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7707/202/Oreganized%201.20.1-4.3.2.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/769203/files/7707202/download"
     },
     {
       "name": "Blueprint",
       "filename": "blueprint-1.20.1-7.1.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8048/579/blueprint-1.20.1-7.1.4.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/382216/files/8048579/download"
     },
     {
       "name": "Xaero's Minimap",
       "filename": "xaerominimap-forge-1.20.1-26.4.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8449/808/xaerominimap-forge-1.20.1-26.4.2.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/263420/files/8449808/download"
     },
     {
       "name": "Xaero's World Map",
       "filename": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8449/908/xaeroworldmap-forge-1.20.1-1.44.2.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/317780/files/8449908/download"
     },
     {
       "name": "Inventory Pets",
       "filename": "inventorypets-1.20.1-2.2.9.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8740/624/inventorypets-1.20.1-2.2.9.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/229380/files/8740624/download"
     },
     {
       "name": "Blue Skies",
       "filename": "blue_skies-1.20.1-1.3.31.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5010/316/blue_skies-1.20.1-1.3.31.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/312918/files/5010316/download"
     },
     {
       "name": "Structure Gel API",
       "filename": "structure_gel-1.20.1-2.16.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5278/429/structure_gel-1.20.1-2.16.2.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/378802/files/5278429/download"
     },
     {
       "name": "The Aether",
       "filename": "aether-1.20.1-1.5.2-neoforge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6134/920/aether-1.20.1-1.5.2-neoforge.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/255308/files/6134920/download"
     },
     {
       "name": "Deeper and Darker",
       "filename": "deeperdarker-forge-1.20.1-1.3.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5906/086/deeperdarker-forge-1.20.1-1.3.3.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/659011/files/5906086/download"
     },
     {
       "name": "Meet Your Fight",
       "filename": "meetyourfight-1.20.1-1.6.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8166/391/meetyourfight-1.20.1-1.6.1.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/409371/files/8166391/download"
     },
     {
       "name": "Ice and Fire: Dragons",
       "filename": "iceandfire-2.1.13-1.20.1-beta-5.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5633/453/iceandfire-2.1.13-1.20.1-beta-5.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/264231/files/5633453/download"
     },
     {
       "name": "Ars Nouveau",
       "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6688/854/ars_nouveau-1.20.1-4.12.7-all.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/401955/files/6688854/download"
     },
     {
       "name": "Deeper and Darker: Spellbooks",
       "filename": "darkermagic-1.3.1-1.20.1-ver.b.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7709/065/darkermagic-1.3.1-1.20.1-ver.b.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/1432746/files/7709065/download"
     },
     {
       "name": "Kotlin for Forge",
       "filename": "kotlinforforge-4.11.0-all.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5402/061/kotlinforforge-4.11.0-all.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/351264/files/5402061/download"
     }
   ]
 }
