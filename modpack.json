@@ -3,7 +3,7 @@
   "loader": "forge",
   "forgeVersion": "47.4.10",
   "serverIp": "mcoynayalim.exaroton.me",
-  "launcherVersion": 2,
+  "launcherVersion": 3,
   "launcherDownloadUrl": "https://nothing.com",
   "mods": [
     {
@@ -44,7 +44,7 @@
     {
       "name": "L_Ender's Cataclysm",
       "filename": "L_Enders_Cataclysm-3.31.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8246/047/L_Enders_Cataclysm-3.31.jar"
+      "url": "https://cdn.modrinth.com/data/46KJle7n/versions/C3H0azzB/L_Enders_Cataclysm-3.31.jar"
     },
     {
       "name": "Mowzie's Mobs",
