@@ -17,6 +17,16 @@
       "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar"
     },
     {
+      "name": "JEI",
+      "filename": "jei-1.20.1-2.1.57-release.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "peace",
+      "filename": "peace-1.20.1-2.1.57-release.jar",
+      "url": "https://github.com/Fahir56/fahir-server-modpack/releases/download/ede/peacefulrealm-1.0.0.jar"
+    },
+    {
       "name": "Integrated Dungeons & Structures",
       "filename": "idas_forge-1.13.0+1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/Z8OZShAU/versions/mgwwWo3b/idas_forge-1.13.0%2B1.20.1.jar"
