@@ -7,9 +7,14 @@
   "launcherDownloadUrl": "https://nothing.com",
   "mods": [
     {
-      "name": "ARDA IMPOSTER KILI",
+      "name": "IMPOSTER KILI",
       "filename": "ardaimposter-1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/v4PSXean/sodium-fabric-0.9.3-alpha.1%2Bmc26.3.jar?mr_download_reason=standalone"
+    },
+    {
+      "name": "IMPOSTER KILI2",
+      "filename": "ardaimposter-1.20.12.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9192/878/mite-be-modern-26.3.jar"
     }
   ]
 }
